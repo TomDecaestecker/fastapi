@@ -6,3 +6,5 @@ Opstarten.txt
 gunicorn_service
 ssh access fastapi-prod.jpg
 nginx
+dockerdetails
+gitdetails
